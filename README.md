@@ -18,31 +18,31 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
     </a> 
-    nbsp;
+    
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
     </a> 
-    nbsp;
+    
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
     </a> 
-    nbsp;
+    
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
     </a> 
-    nbsp;
+    
     <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     </a> 
-    nbsp;
+    
     <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring-boot" width="40" height="40"/> 
     </a> 
-    nbsp;
+    
     <a href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/thymeleaf/thymeleaf-icon.svg" alt="thymeleaf" width="40" height="40"/> 
+        <img src="https://www.google.com/imgres?q=thymeleaf%20icon&imgurl=https%3A%2F%2Fdeveloper.okta.com%2Fassets-jekyll%2Fblog%2Fthymeleaf-security%2Fthymeleaf-logo-white-0e1ac633725b2deeabee05b6c4a0ef42d5183724ef2b00ec380ebaeb7f2d91db.png&imgrefurl=https%3A%2F%2Fdeveloper.okta.com%2Fblog%2F2022%2F03%2F24%2Fthymeleaf-security&docid=PeX3OKmTYgoARM&tbnid=7i1bcjPGGg6dlM&vet=12ahUKEwi20Pb12ZmIAxW6RmcHHbMmHR4QM3oECGUQAA..i&w=4109&h=833&hcb=2&ved=2ahUKEwi20Pb12ZmIAxW6RmcHHbMmHR4QM3oECGUQAA" width="40" height="40"/> 
     </a> 
-    nbsp;
+    
     <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="salesforce" width="40" height="40"/> 
     </a>
