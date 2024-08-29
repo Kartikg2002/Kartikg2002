@@ -36,10 +36,9 @@
     <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="salesforce" width="40" height="40"/> 
     </a>
-   <a href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fwww.thymeleaf.org%2F&psig=AOvVaw1iSG8AlKh_ozWA4vjUVBvs&ust=1725003767368000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDH05vcmYgDFQAAAAAdAAAAABAR" alt="thymeleaf" width="40" 
-        height="40"/> 
-   </a>
+    <a href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/thymeleaf/thymeleaf-original.svg" alt="thymeleaf" width="40" height="40"/> 
+    </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikg2002&show_icons=true&locale=en&layout=compact" alt="kartikg2002" /></p>
