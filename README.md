@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kartik Guleria</h1>
-<h3 align="center">I am currently a student and passionate about to become a Java Developer.</h3>
+<h3 align="center">I am currently a fresher and passionate about to become a Software Developer.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikg2002&label=Profile%20views&color=0e75b6&style=flat" alt="kartikg2002" /> </p>
-
-- 🌱 I’m currently learning **Java Enterprise Edition**
 
 - 📫 How to reach me **k.guleria2002@gmail.com**
 
