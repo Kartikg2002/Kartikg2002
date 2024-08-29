@@ -37,7 +37,7 @@
         <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="salesforce" width="40" height="40"/> 
     </a>
    <a href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/Thymeleaf/thymeleaf.github.com/blob/master/images/thymeleaf.png?raw=true" alt="thymeleaf" width="40" 
+        <img src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fwww.thymeleaf.org%2F&psig=AOvVaw1iSG8AlKh_ozWA4vjUVBvs&ust=1725003767368000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDH05vcmYgDFQAAAAAdAAAAABAR" alt="thymeleaf" width="40" 
         height="40"/> 
    </a>
 </p>
