@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kartik Guleria</h1>
-<h3 align="center">I am currently a fresher and passionate about to become a Software Developer.</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+<h3 align="center">I am currently a fresher and passionate about becoming a Software Developer.</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikg2002&label=Profile%20views&color=0e75b6&style=flat" alt="kartikg2002" /> </p>
 
 - 📫 How to reach me **k.guleria2002@gmail.com**
@@ -36,9 +36,12 @@
     <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="salesforce" width="40" height="40"/> 
     </a>
+    <a href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.thymeleaf.org/images/thymeleaf.png" alt="thymeleaf" width="40" height="40"/> 
+    </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikg2002&show_icons=true&locale=en&layout=compact" alt="kartikg2002" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikg2002&show_icons=true&locale=en&layout=compact&langs_count=8" alt="kartikg2002" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikg2002&show_icons=true&locale=en" alt="kartikg2002" /></p>
 
